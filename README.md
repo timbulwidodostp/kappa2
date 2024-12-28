@@ -1,6 +1,8 @@
 # kappa2
 Cohen's Kappa and weighted Kappa for two raters Use kappa2 (irr) With (In) R Software
 
+https://www.youtube.com/watch?v=HKVdR__n8Es
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
